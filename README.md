@@ -19,7 +19,9 @@ Optionally, other dependencies as specified in the requirements.txt file.
 
 ## Installation
 To install the necessary libraries, follow these steps:
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
 ### Usage
 To use this detection system, follow these steps:
