@@ -26,18 +26,25 @@ pip install -r requirements.txt
 ### Usage
 To use this detection system, follow these steps:
 
-Clone the repository:
-```git clone https://github.com/yourusername/vehicle-license-detection.git```
-
 Navigate to the project directory:
-```cd vehicle-license-detection```
+```
+cd vehicle-license-detection
+```
 
 Activate the virtual environment:
-```source venv/bin/activate```  # On Unix or MacOS
-```.\venv\Scripts\activate```    # On Windows
+ # On Unix or MacOS
+```
+source venv/bin/activate
+```
+# On Windows
+```
+.\venv\Scripts\activate
+```    
 
 Run the main script:
-```python main.py```
+```
+python main.py
+```
 
 The system will start processing the video specified in the script and display the results in real-time. Adjust the path to your video file within main.py as needed.
 
