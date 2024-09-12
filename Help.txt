@@ -1,0 +1,8 @@
+Model trained on dataset
+
+!pip install roboflow
+
+from roboflow import Roboflow
+rf = Roboflow(api_key="OyiBDiZ1PJYi8VQisJLH")
+project = rf.workspace("roboflow-universe-projects").project("license-plate-recognition-rxg4e")
+dataset = project.version(4).download("yolov8")
