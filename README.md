@@ -8,7 +8,7 @@ This repository contains the code for an automated vehicle and license plate det
 4. High Accuracy and Efficiency: Designed to achieve high detection accuracy and processing speed for real-time applications.
 5. Scalable Solution: Ready to integrate into existing surveillance infrastructures without requiring significant additional resources.
 
-## Prerequisites
+## Pre-requisites
 Before you begin, ensure you have met the following requirements:
 
 - Python 3.6 or higher
@@ -42,12 +42,9 @@ The system will start processing the video specified in the script and display t
 Configuration
 Modify the main.py to point to different video sources or adjust the detection and tracking parameters according to your specific requirements.
 
-Contributing
-Contributions to enhance the functionality of this system are welcome. Please adhere to the following steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature/AmazingFeature).
-Make your changes.
-Commit your changes (git commit -m 'Add some AmazingFeature').
+Contributions to enhance the functionality of this system are welcome. Please adhere to the following steps:
+Fork the repository:Create a new branch (git checkout -b feature/AmazingFeature).
+Make your changes:Commit your changes (git commit -m 'Add some AmazingFeature').
 Push to the branch (git push origin feature/AmazingFeature).
 Open a pull request.
