@@ -2,11 +2,11 @@
 This repository contains the code for an automated vehicle and license plate detection system developed to assist in traffic management, law enforcement, and parking facility monitoring by utilizing advanced machine learning models and computer vision techniques. The system processes video feeds to identify vehicles and their license plates in real-time, supporting various surveillance operations.
 
 ## Features
-Real-time Vehicle Detection: Detect multiple vehicle types across different environments using the YOLO object detection framework.
-### License Plate Recognition: Identify and extract license plate information from detected vehicles for further processing.
-### Vehicle Tracking: Maintain vehicle identity across frames using SORT tracking technology.
-### High Accuracy and Efficiency: Designed to achieve high detection accuracy and processing speed for real-time applications.
-### Scalable Solution: Ready to integrate into existing surveillance infrastructures without requiring significant additional resources.
+1. Real-time Vehicle Detection: Detect multiple vehicle types across different environments using the YOLO object detection framework.
+2. License Plate Recognition: Identify and extract license plate information from detected vehicles for further processing.
+3. Vehicle Tracking: Maintain vehicle identity across frames using SORT tracking technology.
+4. High Accuracy and Efficiency: Designed to achieve high detection accuracy and processing speed for real-time applications.
+5. Scalable Solution: Ready to integrate into existing surveillance infrastructures without requiring significant additional resources.
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
@@ -19,7 +19,7 @@ Optionally, other dependencies as specified in the requirements.txt file.
 
 ## Installation
 To install the necessary libraries, follow these steps:
-```pip install -r requirements.txt```
+`pip install -r requirements.txt`
 
 ### Usage
 To use this detection system, follow these steps:
