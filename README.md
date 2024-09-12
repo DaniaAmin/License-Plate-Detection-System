@@ -32,11 +32,11 @@ cd vehicle-license-detection
 ```
 
 Activate the virtual environment:
- # On Unix or MacOS
+ #### On Unix or MacOS
 ```
 source venv/bin/activate
 ```
-# On Windows
+#### On Windows
 ```
 .\venv\Scripts\activate
 ```    
